@@ -1,0 +1,23 @@
+body{
+	background-color: rgb(25, 29, 32);
+	font-family: 'Montserrat', sans-serif;
+	color: #ffffff;
+}
+
+header{
+	background-image: "src"
+}
+
+header img{
+max-height: 100px;
+max-width: 300px;
+}
+
+.item1,.item2,.item3{
+
+	margin: 30px;
+	justify-content: center;
+
+}
+
+(10,14,38
